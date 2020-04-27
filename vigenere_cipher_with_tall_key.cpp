@@ -39,7 +39,7 @@ string check_the(vector<vector<char>> &table, string chipher_text, int pos)
 
 int main()
 {
-    string chipher_text = "MDILAYWZKEVFMQXGOVQAILVAWVQVBJWWZASMVJFRMUNUHDMGWHIBYRMMHSSDFIENTSCICUMXSOMDSEINOFHWLMNHNUNRGYSXXMFUQGPPXRXGVMGEHBVW";
+    string chipher_text = "VHRMHEUZNFQDEZRWXFIDK";
     vector<vector<char>> table(26,vector<char>(26));
     inc(table);
     /*
